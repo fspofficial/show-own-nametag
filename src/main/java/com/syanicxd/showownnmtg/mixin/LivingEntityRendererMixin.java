@@ -1,4 +1,4 @@
-package me.foksha.whoami.mixin;
+package com.syanicxd.showownnmtg.mixin;
 
 
 import net.minecraft.client.MinecraftClient;
