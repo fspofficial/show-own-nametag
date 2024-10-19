@@ -1,21 +1,19 @@
 {
   "schemaVersion": 1,
-  "id": "whoami",
+  "id": "showownnmtg",
   "version": "${version}",
-  "name": "Who am I?",
-  "description": "Shows your name in third perspective and inventory.",
+  "name": "Show Own Nametag",
+  "description": "An module for Nametag Badge Library to show the player's own nametag.",
   "authors": [
+    "SyanicXD",
     "Foksha"
   ],
-  "contact": {
-    "website": "foksha.me"
-  },
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
   },
   "mixins": [
-    "whoami.mixins.json"
+    "showownnmtg.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.9",
